@@ -23,8 +23,17 @@ Welcome to my GitHub profile! I'm a passionate problem solver and developer, con
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salah2918&show_icons=true&theme=dracula&hide_border=true" alt="Salahadin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah2918&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=salah2918&show_icons=true&theme=dracula&hide_border=true&v=1" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salah2918&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah2918&layout=compact&theme=dracula&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 ## 📫 Let's Connect
