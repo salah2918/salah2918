@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a passionate problem solver and developer, con
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salah2918&show_icons=true&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salah2918&show_icons=true&theme=dracula&hide_border=true&v=101)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salah2918&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salah2918&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salah2918&layout=compact&theme=dracula&hide_border=true&v=101)
 
 ## 📫 Let's Connect
 - **Email:** [salahadin.akbari94@gmail.com](mailto:salahadin.akbari94@gmail.com)
