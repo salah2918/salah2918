@@ -28,5 +28,4 @@ Welcome to my GitHub profile! I'm a passionate problem solver and developer, con
 </div>
 
 ## 📫 Let's Connect
-
-- **Email:** [salahadin.akbari94@gmail.com]
+- **Email:** [salahadin.akbari94@gmail.com](mailto:salahadin.akbari94@gmail.com)
