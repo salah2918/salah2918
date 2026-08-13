@@ -36,5 +36,14 @@ Welcome to my GitHub profile! I'm a passionate problem solver and developer, con
 </div>
 <br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salah2918/salah2918/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salah2918/salah2918/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/salah2918/salah2918/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+<br>
+
 ## 📫 Let's Connect
 - **Email:** [salahadin.akbari94@gmail.com](mailto:salahadin.akbari94@gmail.com)
