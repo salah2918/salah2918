@@ -11,18 +11,23 @@ Welcome to my GitHub profile! I'm a passionate problem solver and developer, con
 - 🧠 Deeply interested in **Artificial Intelligence**, **Machine Learning**, and their applications in **Robotics Control**.
 - 🔭 Currently building projects centered around **Computer Vision** (OpenCV, MediaPipe) and API integrations.
 
-## 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
-### Programming & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+**Programming & Libraries** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-### Development & APIs
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Binance API](https://img.shields.io/badge/Binance_API-FCD535?style=for-the-badge&logo=binance&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br><br>
+
+**Development & APIs** <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Binance_API-FCD535?style=for-the-badge&logo=binance&logoColor=black" />
+<br>
 
 ### 📊 GitHub Stats
 
