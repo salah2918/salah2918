@@ -1,4 +1,8 @@
-# Hi there, I'm Salahadin Akbari 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Salahadin!+%F0%9F%91%8B;Computer+Engineering+Student;AI+%26+Robotics+Enthusiast;Computer+Vision+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
 Welcome to my GitHub profile! I'm a passionate problem solver and developer, constantly exploring the intersection of software engineering and artificial intelligence.
 
