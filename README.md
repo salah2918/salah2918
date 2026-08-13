@@ -24,13 +24,18 @@ Welcome to my GitHub profile! I'm a passionate problem solver and developer, con
 ![Binance API](https://img.shields.io/badge/Binance_API-FCD535?style=for-the-badge&logo=binance&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salah2918&show_icons=true&theme=dracula&hide_border=true&v=101)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salah2918&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Salahadin's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salah2918&theme=dark&hide_border=true&background=0D1117" alt="Salahadin's Streak" width="48%" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salah2918&theme=dracula&hide_border=true)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salah2918&layout=compact&theme=dracula&hide_border=true&v=101)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah2918&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
 
 ## 📫 Let's Connect
 - **Email:** [salahadin.akbari94@gmail.com](mailto:salahadin.akbari94@gmail.com)
